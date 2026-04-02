@@ -1,1 +1,3 @@
+# EOS
 
+Hobby / Education project
