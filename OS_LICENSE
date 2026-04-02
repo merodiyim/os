@@ -5,3 +5,5 @@ This project use multi licenses.
 in code headers indicate which file is subject to which license
 
 Check the LICENSE folder in root directory
+
+Unless otherwise specified, components will be considered to be subject to the BSD 3-Clause License. (check: /LICENSE/BSD_LICENSE)
