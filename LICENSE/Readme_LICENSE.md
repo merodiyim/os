@@ -1,1 +1,6 @@
+Maintainer: 
+Melodi <devhelen@tutanota.com>
+
+This project use multi licenses.
+in code headers indicate which file is subject to which license
 
